@@ -1,0 +1,29 @@
+Basic Flight Search Questions
+1. Show me all available flights from Delhi to Mumbai.
+2. List all flights departing from JFK.
+3. What flights are available on May 21st, 2025?
+4. Which flights go to London Heathrow (LHR)?
+5. Find the cheapest flight from New York (JFK) to Los Angeles (LAX).
+
+Passenger & Booking Queries
+6. What bookings does Alice Johnson have?
+7. List all passengers on flight ID 1.
+8. Which passengers have confirmed bookings?
+9. Show all bookings with status 'Pending'.
+10. Find all bookings made by Bob Smith.
+
+Price & Seat Availability
+11. How many seats are available on the Emirates flight from DXB to LHR?
+12. What’s the price of the British Airways flight from LHR to JFK?
+13. List flights that have more than 100 seats available.
+
+Join & Relationship Testing
+14. Give me flight details along with source and destination airport names.
+15. For each booking, show the passenger name and flight airline.
+16. Which airlines operate flights from India?
+17. List passengers and their flight destinations.
+
+Date-Based Queries
+18. Show all flights departing in the next 7 days from today.
+19. List all bookings made before May 15th, 2025.
+20. Are there any flights arriving on May 23rd?

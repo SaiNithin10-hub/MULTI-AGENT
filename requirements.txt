@@ -1,0 +1,4 @@
+phi
+groq
+python-dotenv
+sqlalchemy
